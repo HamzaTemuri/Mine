@@ -1,0 +1,83 @@
+body {
+  	font-size: 16px;
+	font-family: 'Gochi Hand', cursive;
+}
+#header-nav{
+	border-radius: 0;
+	border: 0;
+	background-color: grey;
+}
+.navbar-brand h1{
+	color: black;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  	text-decoration: none;
+}
+.navbar-brand {
+  	padding-top: : 25px;
+}
+.navbar-toggle{
+	margin: 15px;
+}
+#nav-list{
+	background-color: white;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#nav-list a{
+	color: black;
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+#nav-list a:hover{
+	color: red;
+	text-decoration: none;
+}
+#nav-list a span{
+	font-size: 1.8em;
+}
+.p{
+	border: 2px solid black;
+	border-left: 0;
+	border-right: 0;
+}
+.navbar-header button.navbar-toggle,.navbar-header,.icon-bar{
+	border: 2px solid black;
+}
+.navbar-header button.navbar-toggle{
+	clear: both;
+	margin-top: -40px;
+}
+#collapsable-nav{
+	border: 2px solid black;
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+}
+hr{
+	margin-top: 0;
+	margin-bottom: 0;
+	border: 1px solid black;
+}
+.col-xs-12{
+	background-color: grey;
+	font-weight: bold;
+	color: black;
+	padding-top: 5px;
+	/*height: 3000px;*/
+}
+.text-center{
+	margin-top: 0;
+	font-weight: bold;
+	margin-bottom: 50px;
+}
+.marg{
+	margin-bottom: 10px;
+}
